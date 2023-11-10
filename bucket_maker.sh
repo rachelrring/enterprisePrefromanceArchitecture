@@ -28,3 +28,4 @@ done
 
 echo "Cannot create bucket"
 echo "Finished"
+exit 0
